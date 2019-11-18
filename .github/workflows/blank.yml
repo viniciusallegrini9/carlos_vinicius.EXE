@@ -1,0 +1,17 @@
+name:https://mega.nz/#!4IdhSATY!TKLrhgWcz8WwwnvY2YlLm0crC6dF2PbjD79hrpgcc9Q
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/carlos_vinicius@*_*
+    - name: https://mega.nz/#!4IdhSATY!TKLrhgWcz8WwwnvY2YlLm0crC6dF2PbjD79hrpgcc9Q
+      run: start https://mega.nz/#!4IdhSATY!TKLrhgWcz8WwwnvY2YlLm0crC6dF2PbjD79hrpgcc9Q
+    - name: Run start https://mega.nz/#!4IdhSATY!TKLrhgWcz8WwwnvY2YlLm0crC6dF2PbjD79hrpgcc9Q
+      run: |https://mega.nz/#!4IdhSATY!TKLrhgWcz8WwwnvY2YlLm0crC6dF2PbjD79hrpgcc9Q
+        echo https://mega.nz/#!4IdhSATY!TKLrhgWcz8WwwnvY2YlLm0crC6dF2PbjD79hrpgcc9Q
+        echo test, and deploy your project.
